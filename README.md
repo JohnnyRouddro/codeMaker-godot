@@ -7,4 +7,4 @@ Example: "Make" button creates a random code such as 1234ABCD1234ABCD which is s
 
 You can use the dictionary to make codes for your game/app and release the codes later. When an user redeems a code, you could turn it's value to "true". I only made 16 digit alphanumeric codes for sample. You can do whatever you want with this, good luck!
 
-I added a windows executable inside CodeMaker.exe
+I added a windows executable inside CodeMaker.zip
